@@ -179,7 +179,7 @@ Example for Lead II:
 | Attribute                | Tag         | Value     |
 | ------------------------ | ----------- | --------- |
 | Coding Scheme Designator | (0008,0102) | `MDC`     |
-| Code Value               | (0008,0100) | `2:3`     |
+| Code Value               | (0008,0100) | `2:2`     |
 | Code Meaning             | (0008,0104) | `Lead II` |
 
 If a channel label does not correspond to a standard 12-lead ECG, a local coding scheme (`99LOCAL`) is used as a fallback.
